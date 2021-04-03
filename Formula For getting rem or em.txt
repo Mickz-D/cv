@@ -1,0 +1,4 @@
+1em is 16pixels
+ use REM
+
+40 divide by 16px = 2.5rem
